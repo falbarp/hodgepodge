@@ -1,2 +1,3 @@
 # hodgepodge
-HTML/CSS/JS tiny things
+HTML/CSS/JS tiny things.
+Snippets and more
